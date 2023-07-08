@@ -1,0 +1,15 @@
+/Users/tanyamccarthy/Desktop/c#/C_Homework_7/Homework7_2/bin/Debug/net6.0/Homework7_2
+/Users/tanyamccarthy/Desktop/c#/C_Homework_7/Homework7_2/bin/Debug/net6.0/Homework7_2.deps.json
+/Users/tanyamccarthy/Desktop/c#/C_Homework_7/Homework7_2/bin/Debug/net6.0/Homework7_2.runtimeconfig.json
+/Users/tanyamccarthy/Desktop/c#/C_Homework_7/Homework7_2/bin/Debug/net6.0/Homework7_2.dll
+/Users/tanyamccarthy/Desktop/c#/C_Homework_7/Homework7_2/bin/Debug/net6.0/Homework7_2.pdb
+/Users/tanyamccarthy/Desktop/c#/C_Homework_7/Homework7_2/obj/Debug/net6.0/Homework7_2.csproj.AssemblyReference.cache
+/Users/tanyamccarthy/Desktop/c#/C_Homework_7/Homework7_2/obj/Debug/net6.0/Homework7_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tanyamccarthy/Desktop/c#/C_Homework_7/Homework7_2/obj/Debug/net6.0/Homework7_2.AssemblyInfoInputs.cache
+/Users/tanyamccarthy/Desktop/c#/C_Homework_7/Homework7_2/obj/Debug/net6.0/Homework7_2.AssemblyInfo.cs
+/Users/tanyamccarthy/Desktop/c#/C_Homework_7/Homework7_2/obj/Debug/net6.0/Homework7_2.csproj.CoreCompileInputs.cache
+/Users/tanyamccarthy/Desktop/c#/C_Homework_7/Homework7_2/obj/Debug/net6.0/Homework7_2.dll
+/Users/tanyamccarthy/Desktop/c#/C_Homework_7/Homework7_2/obj/Debug/net6.0/refint/Homework7_2.dll
+/Users/tanyamccarthy/Desktop/c#/C_Homework_7/Homework7_2/obj/Debug/net6.0/Homework7_2.pdb
+/Users/tanyamccarthy/Desktop/c#/C_Homework_7/Homework7_2/obj/Debug/net6.0/Homework7_2.genruntimeconfig.cache
+/Users/tanyamccarthy/Desktop/c#/C_Homework_7/Homework7_2/obj/Debug/net6.0/ref/Homework7_2.dll
